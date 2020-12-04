@@ -2,6 +2,8 @@
 
 I'm an engineer at github. I'm currently working on features in the Planning and Tracking space. 📝 Before I became an engineer, I did both Project and Product Management 💁‍♀️. I mostly write Ruby on Rails and am also learning Typescript and React. I also enjoy dabbling with Elixir on the side.
 
+Very occasionally, I'll write about what I'm working on on the [GitHub Blog](https://github.blog/author/katestud/) or on [Medium](https://medium.com/@katestudwell).
+
 When I'm not coding 👩‍💻, I enjoy dancing 👯‍♀️, traveling 🛫, learning about the quirks of language 😀, and exploring my neighborhood.
 
 <!--
