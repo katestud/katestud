@@ -2,7 +2,7 @@
 
 I'm an engineer at github. I'm currently a Technical Advisor for the Engineering organization, working on special projects both technical and cultural. Before that, I worked on building features in the Planning and Tracking space. 📝 Before I became an engineer, I did both Project and Product Management 💁‍♀️. I mostly write Ruby on Rails and spent some time working in Typescript and React. I also enjoy dabbling with Elixir on the side.
 
-Very occasionally, I'll write about what I'm working on on the [GitHub Blog](https://github.blog/author/katestud/) or on [Medium](https://medium.com/@katestudwell).
+Very occasionally, I'll write about what I'm working on on the [GitHub Blog](https://github.blog/author/katestud/) or on [Medium](https://medium.com/@katestudwell), with some additional thoughts on [katestud.dev](https://katestud.dev/).
 
 When I'm not coding 👩‍💻, I enjoy dancing 👯‍♀️, traveling 🛫, learning about the quirks of language 😀, and exploring my neighborhood.
 
