@@ -1,8 +1,19 @@
 ### Hi there. 👋 I'm katestud.
 
-I'm an engineer at GitHub. I currently work in the Developer Experience organization, working on testing strategy and other projects to help create solutions for GitHub engineers to efficiently code, ship, and operate software. Before that, I was a Technical Advisor for the Engineering organization, and even before _that_, I worked on building features in the Planning and Tracking space. 📝 Prior to becoming an engineer, I did both Project and Product Management 💁‍♀️. I mostly write Ruby on Rails and spent some time working in Typescript and React. I also enjoy dabbling with Elixir on the side.
+I'm a software engineer, currently attending a programming retreat batch at
+[Recurse Center](https://www.recurse.com/). I'm interested in a wide range of
+coding projects, with a current renewed interest in hardware.
 
-Very occasionally, I'll write about what I'm working on on the [GitHub Blog](https://github.blog/author/katestud/) or on [Medium](https://medium.com/@katestudwell), with some additional thoughts on [katestud.dev](https://katestud.dev/).
+Professionally, I have worked across the digital advertising, natural language
+generation, and developer tooling industries. Most recently, I worked at GitHub
+in the Developer Experience organization, focused on processes and applications
+to improve developer productivity and happiness for GitHub engineers. During my
+time at GitHub, I also contributed to well loved features like Issues, Projects,
+and Models. I'm most comfortable with Ruby on Rails, with some Golang development
+and React thrown in there for good measure.
+
+Very occasionally, I'll write about what I'm working on or thinking about on
+[katestud.dev](https://katestud.dev/).
 
 When I'm not coding 👩‍💻, I enjoy dancing 👯‍♀️, traveling 🛫, learning about the quirks of language 😀, and exploring my neighborhood.
 
